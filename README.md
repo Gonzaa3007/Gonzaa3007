@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Gonza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gonzaa3007&show_icons=true&theme=dracula)
+![Gonza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gonzaa3007&show_icons=true&theme=onedark)
 
 <!--
 **Gonzaa3007/Gonzaa3007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
